@@ -1,5 +1,4 @@
-# solat
-
+# SOLAT
 <html>
     <head>
         
