@@ -1,5 +1,5 @@
 # solat
-<!DOCTYPE html>
+
 <html>
     <head>
         
