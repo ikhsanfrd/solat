@@ -1,10 +1,8 @@
 .
-
-
 <!DOCTYPE html>
 <html>
     <head>
-        <title>yakali nga GAS</title>
+        
     </head>
     <body>
         <img src="rimender.png" width="300">
